@@ -3,14 +3,14 @@
 Estamos encantados de que formes parte de nuestra comunidad. Con nuestra plataforma, podrás gestionar tu tienda en línea de manera eficiente y potenciar tu negocio digital.
 
 ## 📌 Tus datos de acceso
-- **URL de acceso:** https://pruebasdevelop.online/admin 
-- **Usuario:** codeveloper137@gmail.com  
-- **Contraseña:** Camilo137* (puedes cambiarla desde la configuración)  
+- **URL de acceso:** 
+- **Usuario:** 
+- **Contraseña:**
 
 ## 📖 Documentación y soporte
 Para ayudarte a empezar, hemos preparado una documentación completa donde encontrarás guías paso a paso sobre cómo configurar y gestionar tu ecommerce:  
 
-📘 **Documentación:** [https://pruebasdevelop.online/](https://pruebasdevelop.online/)
+📘 **Documentación:**
 
 # 📦 Guía de Instalación
 
