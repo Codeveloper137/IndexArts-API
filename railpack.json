@@ -5,6 +5,7 @@
     "extensions": [
       "gd",
       "exif",
+      "zip",
       "pdo_mysql",
       "redis"
     ]
