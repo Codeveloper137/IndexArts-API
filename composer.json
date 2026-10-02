@@ -1,14 +1,14 @@
 {
     "name": "bagisto/bagisto",
     "type": "project",
-    "description": "Bagisto Laravel E-Commerce",
+    "description": "InbdexArts Bagisto Laravel E-Commerce",
     "keywords": [
         "framework",
         "laravel"
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.1",
+        "php": "^8.2",
         "ext-calendar": "*",
         "ext-curl": "*",
         "ext-intl": "*",
