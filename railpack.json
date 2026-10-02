@@ -1,0 +1,12 @@
+{
+  "$schema": "https://railpack.com/config/v1/schema.json",
+  "php": {
+    "version": "8.2",
+    "extensions": [
+      "gd",
+      "exif",
+      "pdo_mysql",
+      "redis"
+    ]
+  }
+}
