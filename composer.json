@@ -9,6 +9,8 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "ext-gd": "*",
+        "ext-exif": "*",
         "ext-calendar": "*",
         "ext-curl": "*",
         "ext-intl": "*",
